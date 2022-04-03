@@ -13,5 +13,7 @@ dependencies:
   - pandas=1.2.3
   - git=2.30.2
   - pip=20.3.3
-  - pip:
-      - wandb==0.10.31
+  - mamba
+  - autopep8
+  - pylint
+  - wandb==0.10.31
